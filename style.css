@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    height: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Nahid{
+    font-size: 20px;
+    color: teal;
+    border: 5px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    background-color: lightslategrey;
+}
