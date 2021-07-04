@@ -1,16 +1,29 @@
 h1{
     text-align: center;
-    color: blueviolet;
+    color: rgb(37, 35, 39);
     height: auto;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: inherit;
 
 }
 .Nahid{
     font-size: 20px;
-    color: teal;
-    border: 5px solid green;
+    color:black;
+    border: 15px solid green;
     border-radius: 10px;
-    padding: 10px;
+    padding: 50px;
+    width: 1350px;
+    margin: 20px;
     text-align: justify;
     background-color: lightslategrey;
+}
+.Nirjona{
+    font-style: italic;
+    color: black;
+    border: darkblue 10px ;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    text-align: justify;
+    background-color: cadetblue;
 }
